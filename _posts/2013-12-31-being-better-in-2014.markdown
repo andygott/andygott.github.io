@@ -4,7 +4,7 @@ title:  "Being Better in 2014"
 date:   2013-12-31 00:01:08
 ---
 
-2013 has been a good year, the latter half of which has been all about [Fieldwork](http://madebyfieldwork.com), as is to be expected in the first year of a new business.
+2013 has been a good year, the latter half of which has been all about [Fieldwork](http://madebyfieldwork.com), as you’d expect in the first year of a new business.
 
 We started Fieldwork at the end of 2012, and at the time we were pretty cautious about the whole thing. [Loz](http://www.becausestudio.co.uk/) and I were both doing well as separate one-man operations, and didn’t feel the need to put everything into Fieldwork. A year ago, we were only spending two or three days a week at the studio (although working remotely a lot too). 
 
@@ -53,7 +53,7 @@ Publishing thoughts is a good way to get them in order, sense check ideas, and m
 
 I’ve never really been comfortable with having a website with my name in the URL, it always felt like it had too much ego in it, or something. I’ve done plenty of writing before now, but it’s always been somewhat anonymised behind a business name. It’ll be interesting to see what impact, if any, writing at this URL will have on me.
 
-I can feel the narcissism taking hold already. You’ll all get signed photos of me next Christmas.
+I can feel the narcissism taking hold already. You can all expect signed photos of me next Christmas.
 
 ### Enjoy This Now
 

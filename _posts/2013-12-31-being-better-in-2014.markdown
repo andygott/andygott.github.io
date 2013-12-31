@@ -4,11 +4,11 @@ title:  "Being Better in 2014"
 date:   2013-12-31 00:01:08
 ---
 
-2013 has been a good year, the latter half of which has been almost entirely focussed on [Fieldwork](http://madebyfieldwork.com) (as is to be expected in the first year of a new business).
+2013 has been a good year, the latter half of which has been all about [Fieldwork](http://madebyfieldwork.com), as is to be expected in the first year of a new business.
 
 We started Fieldwork at the end of 2012, and at the time we were pretty cautious about the whole thing. [Loz](http://www.becausestudio.co.uk/) and I were both doing well as separate one-man operations, and didn’t feel the need to put everything into Fieldwork. A year ago, we were only spending two or three days a week at the studio (although working remotely a lot too). 
 
-Over the course of this year, though, Fieldwork has grown into something. We’ve been lucky enough to work almost exclusively on projects that we really care about, collaborating with great people and organisations. We’ve taken Sadie and Ed into the fold, wonderful and talented people who are going to bring a whole new dimension to Fieldwork in 2014. Above all, we did what we set out to do: make interesting stuff, make it well, and have fun doing it. I’m proud of what we’ve done this year, and excited about what we’re going to do next year.
+Over the course of this year, though, Fieldwork has grown into something. We’ve been lucky enough to work almost exclusively on projects that we really care about, collaborating with great people and organisations. We’ve taken Sadie and Ed into the fold – wonderful and talented people who are going to bring a whole new dimension to Fieldwork in 2014. Above all, we did what we set out to do: make interesting stuff, make it well, and have fun doing it. I’m proud of what we’ve done this year, and excited about what we’re going to do next year.
 
 I’ve let a lot of things fall away in the past year too, things that are important to me. I feel as though I’m lacking balance. I’m less fit than I’ve been for a while, and I don’t feel I’ve initiated enough projects, either for fun or for change (not that these are mutually exclusive). When I’m striking a good balance I’m better in lots of ways: I’m more productive, optimistic, creative, sociable, content, and generally calmer with more measured responses. These things have started to slide recently.
 
@@ -20,7 +20,7 @@ Being aware of where I’m lacking and what isn’t working for me really helps,
 
 A couple of years ago I got into the short-lived habit of using [750words](http://750words.com/) to write a private, daily stream of consciousness. I found it useful in the same way that meditation is useful – it helps to surface and clarify underlying thoughts and feelings, which is calming and helps with direction and decision making.
 
-This time, I won’t make myself write 750 words, I’ll just do whatever comes naturally, then round up with a short daily list of things that are making me happy, sad, stressed, tired, energetic or excited. Who knows, the recorded data might become useful over time (maybe there’s a product idea in there somewhere).
+This time, I won’t make myself write 750 words, I’ll just do whatever comes naturally, then round up with a short daily list of things that are making me happy, sad, stressed, tired, energetic or excited. Who knows, the recorded data might become useful over time (maybe there’s a project idea in there somewhere).
 
 I find I feel better, get more done, and maintain more balance if I regularly meditate (I’m certainly no expert at this – [headspace](http://www.getsomeheadspace.com/) helps) and stretch daily. I have no idea why stretching works, but more supple seems to equal more energy. A bit like fresh air and exercise, I guess.
 
@@ -28,7 +28,7 @@ I find I feel better, get more done, and maintain more balance if I regularly me
 
 I never feel like I’m doing enough to make things better. Despite having worked almost exclusively on social and environmental projects with Fieldwork this year, I’m constantly nagged by the scale of the world’s problems, how broken the current system is, and the fact that I never seem to have enough time to do anything about any of it.
 
-Our system of educating every child is [desperately broken](http://www.thersa.org/events/video/archive/sir-ken-robinson), 
+Our system of education is [desperately broken](http://www.thersa.org/events/video/archive/sir-ken-robinson), 
 people can be [surrounded by agriculture yet starving](http://www.theguardian.com/society/patrick-butler-cuts-blog/2013/nov/20/rural-food-poverty-nearest-foodbank-20-miles-away), we [consume pathologically](http://www.monbiot.com/2012/12/10/the-gift-of-death/), and many feel [utterly helpless](http://www.theguardian.com/politics/2013/dec/26/fury-mps-not-voting-poll) to change any of this.
 
 This stuff makes me sad, angry, and guilty all at the same time. I think I can have the most impact working on bottom-up change – grass roots projects and movements that empower people and networks to build a better world – and I need to be more involved with this stuff.

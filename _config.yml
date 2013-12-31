@@ -1,0 +1,4 @@
+name: Andy Gott
+markdown: redcarpet
+pygments: true
+permalink: /:title

@@ -1,0 +1,246 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-color: rgb(240,238,235);
+  font: 14px "ff-meta-web-pro", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 0 5%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 1em;
+  font-weight: 400; 
+}
+
+h1 { margin-bottom: 1em; }
+p { margin: 1em 0; }
+
+a { 
+  color: rgb(165,165,165);
+  text-decoration: none;
+  border-bottom: 2px solid rgba(190,135,37,0.7);
+  transition: all .3s ease-out;
+}
+a:hover   { 
+  color: rgb(0,0,0);
+  border-bottom-color: 2px solid rgb(202,163,32); 
+}
+/*a:visited { color: rgb(165,165,165); }*/
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+.posts {
+  list-style-type: none;
+  margin: 1em 0 3em;
+}
+
+.posts li {
+  line-height: 1.75em;
+}
+
+.posts span {
+  font-family: "ff-meta-serif-web-pro", serif;
+  color: #aaa;
+  display: inline-block;
+  width: 6em;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  background-color: rgb(255,255,255);
+  max-width: 42em;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
+
+.header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.title {
+  text-align: right;
+  background-color: rgb(240,238,235);
+  margin: 0 0 3em;
+  padding: 2em 0;
+}
+
+.title a {
+  color: rgb(90,90,90);
+}
+
+.title a:hover {
+  color: #000;
+}
+
+.header a.extra {
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.header a.extra:hover {
+  color: #000;
+}
+
+.content {
+  padding: 0 8%;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2em;
+  line-height: 1.2em;
+}
+h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.meta {
+  font-family: "ff-meta-serif-web-pro", serif;
+  color: #aaa;
+  color: rgb(202,163,32);
+}
+
+.footer {
+  color: rgb(120,120,120);
+  background-color: rgb(240,238,235);
+  margin: 3em 0 0;
+  padding: 2em 0;
+  overflow: hidden;
+}
+
+.footer > p {
+  max-width: 30em;
+}
+
+.footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.footer .rss img {
+  border: 0;
+}
+
+.external-links {
+  list-style: none;
+}
+.external-links li a {
+  border-bottom-color: rgb(36,128,193);
+  display: block;
+  padding: 0.4em 0;
+}
+.external-links li:nth-child(2) a {
+  border-bottom-color: rgb(184,64,30);
+}
+.external-links li:nth-child(3) a {
+  border-bottom-color: rgb(190,69,161);
+}
+.external-links li:nth-child(4) a {
+  border-bottom-color: rgb(40,151,134);
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+
+@media all and (min-width: 31em) {
+
+  .external-links li {
+    float: left;
+  }
+  .external-links li:before {
+    content: '/';
+    color: rgb(200,200,200);
+    display: inline-block;
+    padding: 0 0.6em;
+  }
+  .external-links li:first-child:before {
+    display: none;
+  }
+  .external-links li a {
+    display: inline;
+  }
+
+}
+
+@media all and (min-width: 35em) {
+
+  .site {
+    font-size: 1.1428em;
+  }
+  .content {
+    padding: 0 3em;
+  }
+  .footer > * {
+    font-size: 0.8em;
+  }
+
+}
+
+@media all and (min-width: 51em) {
+
+  .site {
+    font-size: 1.2857em;
+  }
+
+}
+

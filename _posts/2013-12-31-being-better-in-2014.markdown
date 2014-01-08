@@ -2,6 +2,9 @@
 layout: post
 title:  "Being Better in 2014"
 date:   2013-12-31 00:01:08
+image:  surf.jpg
+image_alt: "Walking over a wooden bridge to the beach with a surfboard"
+footer: "The image above is a crop of, “[Surfboard guy](http://www.flickr.com/photos/dphiffer/193681727/),” which is copyright (c) 2006 [Dan Phiffer](http://www.flickr.com/photos/dphiffer/) and made available under a [CC Attribution 2.0 Generic license](http://creativecommons.org/licenses/by/2.0/)"
 ---
 
 2013 has been a good year, the latter half of which has been all about [Fieldwork](http://madebyfieldwork.com), as you’d expect in the first year of a new business.

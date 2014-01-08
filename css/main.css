@@ -13,6 +13,7 @@
 html, body { height: 100%; }
 
 body {
+  color: rgb(50,50,50);
   background: rgb(240,238,235);
   font: 14px "ff-meta-web-pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -27,6 +28,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
+em {
+  font-style: italic;
+}
 
 a { 
   color: rgb(165,165,165);
@@ -117,7 +121,6 @@ h3, h4, h5, h6 {
 
 .meta {
   font-family: "ff-meta-serif-web-pro", serif;
-  color: #aaa;
   color: rgb(202,163,32);
 }
 
@@ -167,6 +170,33 @@ h3, h4, h5, h6 {
 
 /* standard */
 
+.post {
+  max-width: 28em;
+}
+
+.post-image {
+  margin: -3em -9.5238% 3em;
+}
+.post-image img {
+  max-width: 100%;
+}
+
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+  margin: 1em 0;
+}
+.post p {
+  text-indent: 1.5em;
+  margin: 0;
+}
+.post p:first-child,
+.post *:not(p) + p {
+  text-indent: 0;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -198,9 +228,34 @@ h3, h4, h5, h6 {
   background-color: #333;
 }
 
+.post-footer {
+  font-family: "ff-meta-serif-web-pro", serif;
+  /*color: rgb(172,163,132);*/
+  color: rgb(202,163,32);
+  border-top: 1px solid rgb(222,218,216);
+  padding-top: 1em;
+  margin-top: 2em;
+  max-width: 28em;
+}
+.post-footer > *:first-child {
+  margin-top: 0;
+}
+
 
 @media all and (min-width: 31em) {
 
+  .site {
+    font-size: 1.1428em;
+  }
+  
+  .post-footer {
+    font-size: 0.8em;
+    max-width: 35em;
+  }
+
+  .footer > * {
+    font-size: 0.8em;
+  }
   .external-links li {
     float: left;
   }
@@ -221,24 +276,27 @@ h3, h4, h5, h6 {
 
 @media all and (min-width: 35em) {
 
-  .site {
-    font-size: 1.1428em;
-  }
   .content {
     padding-left: 3em;
     padding-right: 3em;
   }
-  .footer > * {
-    font-size: 0.8em;
+
+  .post-image {
+    margin: -3em -3em 3em;
   }
 
 }
 
-@media all and (min-width: 51em) {
+@media all and (min-width: 40em) {
 
   .site {
     font-size: 1.2857em;
   }
+
+/*  .post p {
+    text-indent: 0;
+    margin: 1em 0;
+  }*/
 
 }
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Painting by Numbers"
-date:   2014-01-07 12:30:00
+date:   2014-01-08 21:00:00
 image:  numbers.jpg
 image_alt: "Hand drawn numbers"
 footer: "The image above is a crop of, “[Numbers](http://www.flickr.com/photos/andymag/9825503886/),” which is copyright (c) 2013 [Andy Maguire](http://www.flickr.com/photos/andymag/) and made available under a [CC Attribution 2.0 Generic license](http://creativecommons.org/licenses/by/2.0/)"

@@ -4,6 +4,6 @@ url: http://andygott.com
 siteurl: http://andygott.com
 markdown: redcarpet
 redcarpet:
-  extensions: ["strikethrough"]
+  extensions: ["strikethrough", "tables"]
 pygments: true
 permalink: /:title

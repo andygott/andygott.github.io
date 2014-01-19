@@ -51,11 +51,24 @@ a:hover   {
 /*****************************************************************************/
 .posts {
   list-style-type: none;
-  margin: 1em 0 3em;
+  margin: 2.6em 0 0;
+  overflow: hidden;
 }
 
 .posts li {
-  line-height: 1.75em;
+  line-height: 1.75em;  
+  margin-bottom: 1.3em;
+}
+
+.posts a h3 {
+  transition: all .3s ease-out;
+}
+
+.posts a h3 {
+  color: rgb(50,50,50);
+}
+.posts a:hover h3 {
+  color: rgb(190,135,37);
 }
 
 .posts span {
@@ -63,6 +76,14 @@ a:hover   {
   color: #aaa;
   display: inline-block;
   width: 6em;
+}
+
+.posts img {
+  max-width: 100%;
+}
+
+.posts a {
+  border-bottom: 0;
 }
 
 /*****************************************************************************/
@@ -75,6 +96,9 @@ a:hover   {
   max-width: 42em;
   margin: 0 auto;
   line-height: 1.5em;
+}
+.index .site {
+  max-width: none;
 }
 
 .header a {
@@ -299,6 +323,14 @@ h3, h4, h5, h6 {
     padding-right: 3em;
   }
 
+  .posts li {
+    width: 48%;
+    float: left;
+  }
+  .posts li:nth-child(even) {
+    float: right;
+  }
+
   .post-image {
     margin: -3em -3em 3em;
   }
@@ -325,6 +357,37 @@ h3, h4, h5, h6 {
     background-repeat: no-repeat;
     background-position: 3em 3em;
     background-size: 20%;
+  }
+
+  .posts li {
+    width: 30.6666%;
+    float: left;
+    margin-right: 4%;
+  }
+  .posts li:nth-child(even) {
+    float: left;
+  }
+  .posts li:nth-child(3n+3) {
+    float: right;
+    margin-right: 0;
+  }
+
+}
+
+@media all and (min-width: 90em) {
+
+  .posts li {
+    width: 22%;
+    float: left;
+    margin-right: 4%;
+  }
+  .posts li:nth-child(3n+3) {
+    float: left;
+    margin-right: 4%;
+  }
+  .posts li:nth-child(4n+4) {
+    float: right;
+    margin-right: 0;
   }
 
 }

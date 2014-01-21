@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interesting"
+title:  "Stay Interesting"
 date:   2014-01-21 19:23:00
 image:  wall.jpg
 image_alt: "Hand drawn numbers"

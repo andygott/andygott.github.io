@@ -11,7 +11,7 @@ These are exciting times. Change is afoot, people are dreaming up clever ways to
 
 There’s plenty of resistance to change too, though. The UK currently has an education minister who believes in rote learning, and an environment minister who denies climate change.  There’s a lot of work to do before we see significant, lasting and overarching change for the better.
 
-A few days ago I attended an [UnLtd](http://unltd.org.uk/) event about how to [map](https://socialsca.pe) and grow peer to peer networks around social enterprise in Manchester. I came away with a few observations and ideas about where there might be room for improvement.
+The other day I attended an [UnLtd](http://unltd.org.uk/) event about how to [map](https://socialsca.pe) and grow peer to peer networks around social enterprise in Manchester. I came away with a few observations and ideas about where there might be room for improvement.
 
 ### Think People, Not Organisations
 

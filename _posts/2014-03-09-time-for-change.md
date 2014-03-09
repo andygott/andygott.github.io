@@ -53,7 +53,7 @@ What is important, though, is that other places learn from the most vibrant ones
 
 ### Connect Big with Small
 
-Similarly, small social enterprises should learn from large organisations. At [Fieldwork](http://madebyfieldwork.com/), we work with large charities and tiny organisations, and we’re starting to see ways to cross-pollinate.  
+Similarly, small social enterprises should learn from large organisations. At [Fieldwork](http://madebyfieldwork.com/), we’ve been working with large charities and tiny organisations, and we’re starting to see ways to cross-pollinate.  
 
 I’d love to see large organisations open up data, share their learnings, and use unique insights, gleaned from testing and running programmes with large audiences, to mentor social startups.
 
